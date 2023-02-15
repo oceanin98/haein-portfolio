@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/haein-portfolio/static/css/main.1f4f49ae.css",
+    "main.js": "/haein-portfolio/static/js/main.53f16e1c.js",
+    "static/media/moun3.png": "/haein-portfolio/static/media/moun3.30e0ffeb3c281610681f.png",
+    "static/media/slick.svg": "/haein-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/haein-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/haein-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/haein-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/haein-portfolio/index.html",
+    "main.1f4f49ae.css.map": "/haein-portfolio/static/css/main.1f4f49ae.css.map",
+    "main.53f16e1c.js.map": "/haein-portfolio/static/js/main.53f16e1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f4f49ae.css",
+    "static/js/main.53f16e1c.js"
+  ]
+}
